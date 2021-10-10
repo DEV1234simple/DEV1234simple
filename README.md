@@ -1,4 +1,4 @@
-[![Social banner for dev1234](https://github.com/dev1234/dev1234/raw/master/assets/header-banner--optimized.svg)]()
+
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm dev1234
