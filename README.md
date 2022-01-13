@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
 [![youtube Badge](https://img.shields.io/badge/-Youtube-00acee?style=flat-square&logo=Youtube&logoColor=white)](https://twitter.com/iampavangandhi)
 [![Tumblr Badge](https://img.shields.io/badge/-Tumblr-e4405f?style=flat-square&logo=Tumblr&logoColor=white)](https://instagram.com/iampavangandhi/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
+[![Discord Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Discord&logoColor=white)](https://t.me/iampavangandhi)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
