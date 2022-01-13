@@ -15,7 +15,7 @@ Joined Github **1** year ago.
 Since then I pushed **5**+ commits, opened **0**+ issues, submitted **253**+ pull requests, created **20**+ gists and contributed to **5**+ public repositories.
 
 Like My Work?
-
+hire me by contacting me with my email - pranavram2020@gmail.com
 
 ### Talking about Personal Stuffs:
 
