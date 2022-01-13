@@ -6,7 +6,7 @@
 [![Tumblr Badge](https://img.shields.io/badge/-Tumblr-e4405f?style=flat-square&logo=Tumblr&logoColor=white)](https://instagram.com/iampavangandhi/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white)](https://t.me/iampavangandhi)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=DEV1234simple.DEV1234simple&style=flat-square&color=0088cc)
 
 I'm a studying in Computer Science 🎓 from home 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
