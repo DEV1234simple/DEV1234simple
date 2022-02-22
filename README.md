@@ -6,7 +6,7 @@
 
 I'm a studying in Computer Science 🎓 from home 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **1** year ago.
+Joined Github **3** years ago.
 
 Since then I pushed **5**+ commits, opened **0**+ issues, submitted **253**+ pull requests, created **20**+ gists and contributed to **5**+ public repositories.
 
@@ -18,7 +18,7 @@ hire me by contacting me with my email - pranavram2020@gmail.com
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]
-- 💬 &nbsp; Ask me about anything [here](pranavram2020@gmail.com)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/DEV1234simple/Doubt-clearing-git/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: pranavram2020@gmail.com
 - 📝 &nbsp; Checkout all projects
