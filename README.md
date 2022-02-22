@@ -17,12 +17,11 @@ hire me by contacting me with my email - pranavram2020@gmail.com
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]
+- 💬 &nbsp; Ask me about anything [here](pranavram2020@gmail.com)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
-
+- 📫 &nbsp; How to reach me: pranavram2020@gmail.com
+- 📝 &nbsp; Checkout all projects
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
